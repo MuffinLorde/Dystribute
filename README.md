@@ -7,5 +7,8 @@ Dystribute is a package manager that connects to GitHub and platforms to get you
 > [!IMPORTANT]
 > Dystribute is still in an early phase of development and is currently very unstable
 
+> [!NOTE]
+> Unlike a normal package manager, Dystribute uses Gihub and a multitude of other platforms to get packages and programs
+
 ## Activity
 <img src="https://repobeats.axiom.co/api/embed/ce40cb71849b41715ef4932f62d4d77bdac2b77c.svg" width="1000">
