@@ -5,7 +5,7 @@
 Dystribute is a package manager that connects to GitHub and platforms to get you the best version of your wanted package or program. Not for one but for all 
 
 ```
-dyst import {git link}
+dyst import {git_link}
 ```
 
 > [!IMPORTANT]
