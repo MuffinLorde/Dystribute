@@ -5,10 +5,8 @@
 Dystribute is a package manager that connects to GitHub and platforms to get you the best version of your wanted package or program. Not for one developer, all developers.
 
 > [!IMPORTANT]
-> Dystribute is still in an early phase of development and is currently very unstable
-
-> [!NOTE]
-> Unlike a normal package manager, Dystribute uses Gihub and a multitude of other platforms to get packages and programs
+> - Dystribute is still in an early phase of development and is currently very unstable </br>
+> - Dystribute cannot get every package or program you think of
 
 ## Activity
 <img src="https://repobeats.axiom.co/api/embed/ce40cb71849b41715ef4932f62d4d77bdac2b77c.svg" width="1000">
