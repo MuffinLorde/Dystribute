@@ -6,11 +6,9 @@ Dystribute is a package manager for the c and c++ programming language that conn
 
 ## Notes
 
-> [!IMPORTANT]
-> - Dystribute is still in an early phase of development and is currently doesn't work </br>
-> - Dystribute cannot get every package or program you think of
-
 > [!NOTE]
+> Dystribute is still in an early phase of development and is currently doesn't work </br>
+> Dystribute cannot get every package or program you think of </br>
 > Dystribute is made with Python amd not C
 
 ## Activity
